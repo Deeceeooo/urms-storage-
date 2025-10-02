@@ -162,7 +162,7 @@
     <section class="section">
       <h2>Profile</h2>
       <div class="profile-info">
-        <div><strong>Name:</strong> Maria Dela Cruz</div>
+        <div><strong>Name:</strong> Ella Garcia</div>
         <div><strong>Department:</strong> Computer Science</div>
         <div><strong>Faculty:</strong> Information Technology</div>
       </div>
@@ -173,7 +173,7 @@
       <h2>Advisory Class</h2>
       <button class="toggle-btn" onclick="toggleAdvisory()">Show Students</button>
       <ul id="advisory-list" class="student-list hidden">
-        <li>Juan Dela Cruz</li>
+        <li>Chares Clare P. Balungo</li>
         <li>Ana Reyes</li>
         <li>Mark Villanueva</li>
         <li>Sophia Cruz</li>
@@ -193,6 +193,7 @@
         </thead>
         <tbody>
           <tr>
+
             <td><a href="#">Programming 101</a></td>
             <td>Mon & Wed 8:00AM - 9:30AM</td>
             <td>Room 204</td>

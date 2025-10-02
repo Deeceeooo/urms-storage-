@@ -138,17 +138,17 @@
     <section class="section">
       <h2>Profile</h2>
       <div class="profile-info">
-        <div><strong>Name:</strong> Juan Dela Cruz</div>
-        <div><strong>Year:</strong> 2nd Year</div>
-        <div><strong>Section:</strong> BSIT-2A</div>
-        <div><strong>Class Adviser:</strong> Mr. Santos</div>
+        <div><strong>Name:</strong> Chares Clare P. Balungo</div>
+        <div><strong>Year:</strong> 3rd Year</div>
+        <div><strong>Section:</strong> BSIT-3A</div>
+        <div><strong>Class Adviser:</strong> Mr. Villanueva</div>
       </div>
       <h3 style="margin-top:1rem; color:var(--secondary-color);">List of Classmates</h3>
       <ul class="classmates">
-        <li>Ana Reyes</li>
-        <li>Mark Villanueva</li>
-        <li>Sophia Cruz</li>
-        <li>Daniel Garcia</li>
+        <li>Dixie Mae Gampic</li>
+        <li>Jennifer Fajardo</li>
+        <li>Ciara Wilsen Laranang</li>
+        <li>Diana Sofia Sta. Ana</li>
       </ul>
     </section>
 
